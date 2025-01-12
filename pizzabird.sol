@@ -3,7 +3,7 @@ pragma solidity ^0.8.0;
 
 contract DriverPlatform {
     // Owner of the platform
-    address public owner;
+    address public owner; 
 
     // Driver administrator role
     address public driverAdmin;
